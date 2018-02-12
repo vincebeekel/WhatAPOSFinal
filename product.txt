@@ -1,0 +1,12 @@
+Founder's I.P.A.,beer,six pack,8.25
+Rouge Dead Guy Ale,beer,six pack,11.37
+Pabst Blue Ribbon,beer,six pack tall boys,5.00
+Heineken,beer,six pack,8.99
+Lagunitas,beer,six pack,7.89
+Widmer Hefeweizen,beer,six pack,7.45
+Hennessy,liquor,fifth,32.43
+Remy Martin,liquor,fifth,35.41
+Jack Daniels,liquor,fifth,20.11
+Grey Goose,liquor,fifth,28.93
+Ruff and Rugged,liquor,half-gallon,4.78
+Pendelton,liquor,fifth,20.56
